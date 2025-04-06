@@ -74,7 +74,7 @@ A imagem mostra um painel central com uma tela, mas devido à baixa resolução 
 ## 🧵 Print
 
 📷 Imagem utilizada no projeto:
-![Painel da Cybertruck](inputs/cybertruck-painel.jpg)
+![Painel da Cybertruck](inputs/cybertruck.jpg)
 
 ---
 
